@@ -4,6 +4,14 @@
 
 <img width="1232" alt="Screenshot 2022-07-06 at 10 59 50" src="https://user-images.githubusercontent.com/96617645/177465435-3261adb5-296a-44e7-9031-a179b6b00aea.png">
 
+WHAT YOU WILL LEARN
+Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+
+Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
+
+Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
+
+Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model
 
 The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
 
