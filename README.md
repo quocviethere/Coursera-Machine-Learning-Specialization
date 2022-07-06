@@ -1,4 +1,4 @@
-# Coursera Machine Learning Specialization
+## Coursera Machine Learning Specialization
 
 <img width="1232" alt="Screenshot 2022-07-06 at 10 59 50" src="https://user-images.githubusercontent.com/96617645/177465435-3261adb5-296a-44e7-9031-a179b6b00aea.png">
 
@@ -14,7 +14,7 @@ It provides a broad introduction to modern machine learning, including supervise
 By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
 
 
-Applied Learning Project
+**Applied Learning Project**
 By the end of this Specialization, you will be ready to:
 
  
