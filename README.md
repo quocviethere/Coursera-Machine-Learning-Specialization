@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning-Specialization
+# Coursera Machine Learning Specialization
 
 <img width="1232" alt="Screenshot 2022-07-06 at 10 59 50" src="https://user-images.githubusercontent.com/96617645/177465435-3261adb5-296a-44e7-9031-a179b6b00aea.png">
 
