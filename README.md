@@ -1,6 +1,5 @@
 ## Disclaimer
-I recognize the time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are only for reference. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions. This course is the most straight-forward deep learning course I have ever taken, with fabulous course content and structure. It's a treasure by the deeplearning.ai team.
-## Coursera Machine Learning Specialization
+I am aware of the time people invest in developing their intuition, learning new ideas, and fixing assignments. The solutions posted here are merely for use as a guide. If you get trapped anywhere, they're supposed to help you get out of it. Please don't copy the code exactly as it is (the programming assignments are fairly easy if you read the instructions carefully).
 
 #BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
 
