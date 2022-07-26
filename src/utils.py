@@ -1,13 +1,12 @@
 import numpy as np
+from sklearn import datasets
+
 
 def load_data():
-    data = np.loadtxt("data/ex1data1.txt", delimiter=',')
-    X = data[:,0]
-    y = data[:,1]
-    return X, y
+    iris = datasets.load_iris()
+    X = iris.data[:, :2]  # we only take the first two features.
+    y = iris.target
 
-def load_data_multi():
-    data = np.loadtxt("data/ex1data2.txt", delimiter=',')
-    X = data[:,:2]
-    y = data[:,2]
+    X = X[y != 2] # only two classes
+    y = y[y != 2]
     return X, y
