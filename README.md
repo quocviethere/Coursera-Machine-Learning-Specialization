@@ -74,10 +74,10 @@ In the third course of the Machine Learning Specialization, you will:
 
 ## Certificate
 
-[Machine Learning Specialization](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Machine%20Learning.pdf)
-1. [Supervised Machine Learning: Regression and Classification](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning-%20Regression%20and%20Classification.pdf)
-2. [Advanced Learning Algorithms](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms.pdf)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
+1. [Machine Learning Specialization](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning.pdf)
+2. [Supervised Machine Learning: Regression and Classification](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Supervised%20Machine%20Learning-%20Regression%20and%20Classification.pdf)
+3. [Advanced Learning Algorithms](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Advanced%20Learning%20Algorithms.pdf)
+4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
 
 
 --------------------------------------------------------------------------------------------------------------
